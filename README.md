@@ -2,6 +2,8 @@
 
 A responsive scrolling marquee animation using HTML attributes and GSAP.
 
+![demo gif loop](assets/marquee-gif.gif)
+
 ## Installation
 
 1. Import the code from CDN
