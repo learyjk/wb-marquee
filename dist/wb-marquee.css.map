@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../src/wb-marquee.css"],
+  "sourcesContent": [":root {\n  --gap: 1rem;\n}\n\n.marquee {\n  position: relative;\n  display: flex;\n  overflow: hidden;\n  user-select: none;\n  gap: var(--gap);\n}\n\n.marquee-content {\n  flex-shrink: 0;\n  display: flex;\n  justify-content: space-around;\n  min-width: 100%;\n  gap: var(--gap);\n}\n"],
+  "mappings": "AAAA,MACE,YAGF,SACE,kBACA,aACA,gBACA,iBACA,eAGF,iBACE,cACA,aACA,6BACA,eACA",
+  "names": []
+}
