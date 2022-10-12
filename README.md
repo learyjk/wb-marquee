@@ -1,6 +1,6 @@
 # WB-MARQUEE
 
-A scrolling marquee animation using HTML attributes and GSAP.
+A responsive scrolling marquee animation using HTML attributes and GSAP.
 
 ## Installation
 
