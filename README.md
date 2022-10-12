@@ -12,11 +12,11 @@ A responsive scrolling marquee animation using HTML attributes and GSAP.
 
 In the `<head>` tag
 
-`<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/learyjk/wb-marquee@1/dist/wb-marquee.css">`
+`<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/learyjk/wb-marquee@1/dist/wb-marquee.min.css">`
 
 Before the `</body>` tag
 
-`<script src="https://cdn.jsdelivr.net/gh/learyjk/wb-marquee@1/dist/wb-marquee.js"></script>`
+`<script src="https://cdn.jsdelivr.net/gh/learyjk/wb-marquee@1/dist/wb-marquee.min.js"></script>`
 
 2. Create a div with classname `marquee`. Give it a data attribute `wb-data="marquee"`
 3. Create another div inside that one with classname `marquee-content`. Put your scrolling content in here.
