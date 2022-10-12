@@ -6,7 +6,7 @@ A scrolling marquee animation using HTML attributes and GSAP.
 
 1. Import the code from CDN
 
-In the` <head>` tag
+In the `<head>` tag
 
 `<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/learyjk/wb-marquee@1/dist/wb-marquee.css">`
 
@@ -40,3 +40,7 @@ Alternatively, drop this CSS into an embed on your Webflow page to see it in des
 	gap: var(--gap);
 }
 ```
+
+![screenshot of setup](assets/screen.webp)
+
+[webbae.net](https://www.webbae.net)
