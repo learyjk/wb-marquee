@@ -21,7 +21,7 @@ Alternatively, drop this CSS into an embed on your Webflow page to see it in des
 
 ```
 :root {
-	--gap: 1rem;
+  --gap: 1rem;
 }
 
 .marquee {
@@ -29,7 +29,7 @@ Alternatively, drop this CSS into an embed on your Webflow page to see it in des
   display: flex;
   overflow: hidden;
   user-select: none;
-	gap: var(--gap)
+  gap: var(--gap)
 }
 
 .marquee-content {
@@ -37,7 +37,7 @@ Alternatively, drop this CSS into an embed on your Webflow page to see it in des
   display: flex;
   justify-content: space-around;
   min-width: 100%;
-	gap: var(--gap);
+  gap: var(--gap);
 }
 ```
 
